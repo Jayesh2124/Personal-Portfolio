@@ -1,0 +1,11 @@
+/* typewriter.component.css */
+.typewriter-container {
+    overflow: hidden; /* Hide overflow to create the typewriter effect */
+    white-space: nowrap; /* Prevent line breaks */
+  }
+  
+  .typewriter-text {
+    display: inline-block;
+    border-right: 2px solid #000; /* Simulate the cursor */
+  }
+  
